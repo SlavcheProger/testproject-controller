@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "Remote-controller",
+  "version": "1.0.0",
+  "description": "Remote controller",
+  "author": "Vyacheslav Feofanov"
+}
